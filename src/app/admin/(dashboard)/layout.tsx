@@ -6,6 +6,7 @@ const sidebar = [
   { label: "Content", href: "#", icon: "📝" },
   { label: "Contacts", href: "#", icon: "📬" },
   { label: "Users", href: "/admin/users", icon: "👥" },
+  { label: "Roles", href: "/admin/roles", icon: "🔑" },
   { label: "Settings", href: "#", icon: "⚙️" },
 ];
 
