@@ -2,7 +2,7 @@ import Link from "next/link";
 
 const sidebar = [
   { label: "Dashboard", href: "/admin", icon: "📊" },
-  { label: "Services", href: "#", icon: "🔧" },
+  { label: "Products", href: "/admin/products", icon: "📦" },
   { label: "Content", href: "#", icon: "📝" },
   { label: "Contacts", href: "#", icon: "📬" },
   { label: "Users", href: "/admin/users", icon: "👥" },
